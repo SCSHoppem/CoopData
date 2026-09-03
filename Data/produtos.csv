@@ -1,0 +1,6 @@
+﻿produto_id,nome_produto,categoria,status_produto
+1,Conta Corrente,Conta,Ativo
+2,Cartão de Crédito,Cartão,Ativo
+3,Crédito Pessoal,Crédito,Ativo
+4,Financiamento,Crédito,Ativo
+5,Investimento CDB,Investimento,Ativo

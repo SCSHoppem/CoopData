@@ -1,0 +1,15 @@
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários do Power BI
+~$*.pbix
+*.pbix.autosave
+.pbi/
+
+# Backups e logs locais do SQL Server
+*.bak
+*.log
+
+# Configurações locais de editores
+.vscode/

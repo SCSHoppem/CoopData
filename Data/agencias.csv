@@ -1,0 +1,21 @@
+﻿agencia_id,nome_agencia,cidade,estado,data_abertura,tipo_agencia
+101,Agência Porto Alegre 1,Porto Alegre,RS,2002-03-05,Digital
+102,Agência Santa Cruz do Sul 2,Santa Cruz do Sul,RS,1999-08-11,Física
+103,Agência Caxias do Sul 3,Caxias do Sul,RS,2005-04-13,Física
+104,Agência Santa Maria 4,Santa Maria,RS,1998-06-13,Física
+105,Agência Florianópolis 5,Florianópolis,SC,2020-03-08,Física
+106,Agência Joinville 6,Joinville,SC,2020-10-09,Física
+107,Agência Blumenau 7,Blumenau,SC,2019-06-29,Física
+108,Agência Curitiba 8,Curitiba,PR,2016-09-20,Digital
+109,Agência Londrina 9,Londrina,PR,2016-02-25,Física
+110,Agência São Paulo 10,São Paulo,SP,2010-06-10,Física
+111,Agência Campinas 11,Campinas,SP,2003-01-07,Física
+112,Agência Belo Horizonte 12,Belo Horizonte,MG,2004-02-22,Física
+113,Agência Rio de Janeiro 13,Rio de Janeiro,RJ,1998-12-14,Física
+114,Agência Vitória 14,Vitória,ES,2014-09-05,Física
+115,Agência Goiânia 15,Goiânia,GO,2005-07-04,Digital
+116,Agência Brasília 16,Brasília,DF,1999-08-22,Física
+117,Agência Porto Alegre 17,Porto Alegre,RS,2014-05-02,Física
+118,Agência Santa Cruz do Sul 18,Santa Cruz do Sul,RS,2016-02-23,Física
+119,Agência Caxias do Sul 19,Caxias do Sul,RS,2017-03-09,Física
+120,Agência Santa Maria 20,Santa Maria,RS,2013-02-04,Física
