@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-O **CoopData** é um projeto autoral de portfólio que simula um ambiente de dados de uma cooperativa financeira. Meu com o projeto, foi transformar arquivos brutos de clientes, agências, produtos, transações, empréstimos e pagamentos em informações confiáveis para acompanhamento executivo.
+O **CoopData** é um projeto autoral de portfólio que simula um ambiente de dados de uma cooperativa financeira. Meu objetivo com o projeto, foi transformar arquivos brutos de clientes, agências, produtos, transações, empréstimos e pagamentos em informações confiáveis para acompanhamento executivo.
 
 O projeto percorre o fluxo completo de uma análise de dados: importação, exploração, avaliação de qualidade, tratamento em SQL, modelagem no Power BI, criação de medidas DAX e desenvolvimento de um dashboard interativo.
 
